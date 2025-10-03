@@ -7,10 +7,18 @@
 }
 
 .logo img {
+<<<<<<< HEAD
     width: 50px;
     height: auto;
 }
 
+=======
+    width: 50px;   
+    height: auto; 
+}
+
+
+>>>>>>> 22d08ec72aec5fefa59ee6ed9747a0cfe153a26e
 * {
     margin: 0;
     padding: 0;
@@ -33,13 +41,21 @@ section {
 }
 
 header {
+<<<<<<< HEAD
     position: fixed;
+=======
+    position:  fixed;
+>>>>>>> 22d08ec72aec5fefa59ee6ed9747a0cfe153a26e
     top: 0;
     left: 0;
     right: 0;
     z-index: 99;
     border-bottom: var(--border);
     background-color: var(--bg);
+<<<<<<< HEAD
+=======
+
+>>>>>>> 22d08ec72aec5fefa59ee6ed9747a0cfe153a26e
 }
 
 .header section {
@@ -61,6 +77,10 @@ header {
     border-bottom: 0.1rem solid var(--main-color);
     padding-bottom: 0.5rem;
     font-size: 2rem;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 22d08ec72aec5fefa59ee6ed9747a0cfe153a26e
 }
 
 .icons img {
@@ -128,12 +148,20 @@ header {
     color: #fff;
     text-transform: uppercase;
 }
+<<<<<<< HEAD
 
 .about .row {
+=======
+.about .row{
+>>>>>>> 22d08ec72aec5fefa59ee6ed9747a0cfe153a26e
     display: flex;
     align-items: center;
     background-color: var(--black);
     gap: 1.5rem;
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 22d08ec72aec5fefa59ee6ed9747a0cfe153a26e
 }
 
 .about.row .content {
@@ -151,6 +179,7 @@ header {
     padding: 1rem 0;
     line-height: 1.8;
 }
+<<<<<<< HEAD
 
 .box img {
     width: 120px;
@@ -255,3 +284,5 @@ header {
 .footer .share img:hover {
     background-color: var(--main-color);
 }
+=======
+>>>>>>> 22d08ec72aec5fefa59ee6ed9747a0cfe153a26e
